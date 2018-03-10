@@ -1,10 +1,9 @@
 #Ignore everything
-*
+/*
+*.pyc
 
 #Except the files
 !.gitignore
-!*.md
-!*.py
 
-#Except the folder
-!src/
+#Except the folders
+!/src/
